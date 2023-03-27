@@ -1,5 +1,6 @@
 Detailed instructions for use are in the report
-![preview](https://user-images.githubusercontent.com/28195267/228021549-beff7929-d1c4-4670-83f3-edcf048aab18.png)
+
+<a href="https://github.com/marton12050/Project-Laboratory-BSc/blob/master/report.pdf"><img src="https://user-images.githubusercontent.com/28195267/228021549-beff7929-d1c4-4670-83f3-edcf048aab18.png"  width="180" ></a>
 
 Guide in Hungary:
 # MQTT teszt környezet felállítása 
