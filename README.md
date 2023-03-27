@@ -1,4 +1,5 @@
 Detailed instructions for use are in the report
+![preview](https://user-images.githubusercontent.com/28195267/228021549-beff7929-d1c4-4670-83f3-edcf048aab18.png)
 
 Guide in Hungary:
 # MQTT teszt környezet felállítása 
