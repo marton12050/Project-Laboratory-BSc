@@ -1,5 +1,6 @@
-implementation details with versioning
+Detailed instructions for use are in the report
 
+Guide in Hungary:
 # MQTT teszt környezet felállítása 
 Tartalmaz:1 broker, 1 subsriber, 1 publisher
 
