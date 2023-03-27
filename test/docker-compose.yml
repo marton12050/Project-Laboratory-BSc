@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  broker:
+    image: eclipse-mosquitto
+    ports:
+      - 1883:1883
+    volumes:
+      - ./broker/config:/mosquitto/config
+      - ./broker/data:/mosquitto/data
+      - ./broker/log:/mosquitto/log
+  pub:
+    build: ./pub/
+    network_mode: host
+    env_file:
+      - .env
+  sub:
+    build: ./sub/
+    network_mode: host
+    env_file:
+      - .env
